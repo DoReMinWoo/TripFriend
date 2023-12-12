@@ -1,10 +1,10 @@
-# 🍴 TripFriend-Android 🍴
+# ✈ TripFriend-Android ✈ 
 > 멋쟁이 사자처럼 앱스쿨 2조(E중IN격) <br>
 23.09.04 - 23.09.26
 
 ![image](https://github.com/DoReMinWoo/TripFriend/assets/86788873/be1e38d1-90eb-4bb1-a1cc-a78572982b20)
 
-## 🍽️ *****Contributors*****
+## 🙋🏻‍♂️ *****Contributors*****
 | 김민우 <br> [@DoReMinWoo](https://github.com/DoReMinWoo) | 이지은 | 강현구 | 유동호 | 장용진 |
 |---|---|---|---|---|
 |<p align="center"><img width="100" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/54d6f353-1b03-4724-b3db-7dce03b6401e"/></p>|<p align="center"><img width="100" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/84ace252-8dcb-4d65-a61e-91d9041602a9"/></p>|<p align="center"><img width="200" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/557454a2-3edd-41f4-b8e7-895be8351948"/></p>|<p align="center"><img width="200" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/9930b817-f568-4ece-9244-8049e3daadc3"/></p>|<p align="center"><img width="200" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/aa94ae2f-bd7d-4db8-8dda-2634445789f6"/></p>|
