@@ -22,13 +22,13 @@
 <img width="400" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/c52ebc76-abae-4c57-9e5e-1412b2772811"/>
 
 ### 알림
-<img width="400" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/ea65efd3-8793-4100-88cf-7178cdacf834"/>
-
-### 게시글 검색 및 필터
 <img width="200" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/b0417cb0-cd91-41a7-be44-d56e602d03e3"/>
 
-### 동행글 CRUD 및 동행 신청
+### 게시글 검색 및 필터
 <img width="200" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/16107a09-d17e-4972-a5e9-93c02f4f40fa"/>
+
+### 동행글 CRUD 및 동행 신청
+<img width="400" src="https://github.com/DoReMinWoo/TripFriend/assets/86788873/0255f481-8843-4b68-9956-42f3f45a7fb6"/>
 
 ## 📁 *****Foldering*****
 ```
